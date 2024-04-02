@@ -1,0 +1,8 @@
+전월세가 정보
+https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do
+
+법정동코드
+https://www.data.go.kr/data/15123287/fileData.do
+
+행정동코드
+https://www.data.go.kr/data/15122602/fileData.do
