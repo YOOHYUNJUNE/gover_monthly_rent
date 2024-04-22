@@ -1,4 +1,4 @@
-![sample].(https://github.com/YOOHYUNJUNE/gover_monthly_rent/blob/master/%EB%A9%94%EC%9D%B8.jpg)
+![sample](https://github.com/YOOHYUNJUNE/gover_monthly_rent/blob/master/%EB%A9%94%EC%9D%B8.jpg)
 
 
 공공데이터 서울특별시 전월세가 정보 
